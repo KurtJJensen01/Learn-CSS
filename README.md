@@ -9,8 +9,9 @@ The content is divided into:
 1. **Learn CSS** (✅ Completed)  
 2. **CSS Box Model and Layout** (✅ Completed)  
 3. **Additional CSS Lessons** (🚧 In Progress)  
-   - Links and Buttons  
-   - More lessons to come as I progress through the course
+   - Links and Buttons (✅ Completed)
+   - Secondary Navigation (🚧 In Progress) 
+   - Wireframing (🚧 In Progress) 
 
 ✅ = Completed  
 🚧 = In Progress
